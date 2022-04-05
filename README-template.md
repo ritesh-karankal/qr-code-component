@@ -15,10 +15,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
+This is my first frontend mentor challenge. I followed a Web Development course before and learnt CSS but I didn't practiced it and tried making something myself. After the course when I tried making a website for a hackathon I realized I just learnt it passively and jumped onto next topics like Javascript without actually practicing it. I faced imposter syndrome and tutorial hell. Now I am learning web dev again and learning by doing. Making progress slowly and trying to learn concepts deeply instead of completely as tasks. It was fun to complete the challenge by my own trying to figure out why thing is not working, how to fix it. Web design may or may not be called art but it was like art It was similar to painting for me I was an artist(programmer) looking at a scenery(design) and trying to replicate it on my artboard(web browser) with my paintbrush(keyboard) and colours (css properties).
+ 
 ### Screenshot
 
 ![](./screenshot.jpg)
@@ -53,7 +53,12 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+I have learnt css before but I didnt practiced it when I came to make a website on my own I struggled to align items.
+
+Today I learnt 
+How to center a div using flex-box.
+How to make a card.
+How to change text properties.
 
 To see how you can add code snippets, see below:
 
@@ -79,6 +84,10 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 
 Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
 
+I am still confused about some elements what to use like padding or margin.
+How to cut a text using padding or width.
+How 
+
 **Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
@@ -92,7 +101,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 - Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Twitter - [@riteshk_twt](https://www.twitter.com/yourusername)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
@@ -100,4 +109,6 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
 
+I wanna give credit to 
+I was struggling to make it pixel perfect. I was not able to figure out where the extra padding between elements were coming from.
 **Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
