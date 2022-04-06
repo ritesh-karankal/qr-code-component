@@ -70,7 +70,7 @@ body {
     margin: 16px;
 }
 
-.header {
+.heading {
     font-size: 21px;
     font-weight: 700;
     letter-spacing: 0.025em;
@@ -79,12 +79,12 @@ body {
     padding: 8px 34px;
 }
 
-.content {
+.description {
     font-size: 15px;
     font-weight: 400;
     line-height: 19px;
     letter-spacing: 0.225px;
-    color: hsla(220, 15%, 45%);
+    color:hsl(220, 15%, 55%);
     padding: 8px 34px 40px;
 }
 
