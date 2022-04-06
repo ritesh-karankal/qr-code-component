@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-This is my first frontend mentor challenge. I followed a Web Development course before and learnt CSS but I didn't practiced it and tried making something myself. After the course when I tried making a website for a hackathon I realized I just learnt it passively and jumped onto next topics like Javascript without actually practicing it. I faced imposter syndrome and tutorial hell. Now I am learning web dev again and learning by doing. Making progress slowly and trying to learn concepts deeply instead of completely as tasks. It was fun to complete the challenge by my own trying to figure out why thing is not working, how to fix it. Web design may or may not be called art but it was like art It was similar to painting for me I was an artist(programmer) looking at a scenery(design) and trying to replicate it on my artboard(web browser) with my paintbrush(keyboard) and colours (css properties).
+This is my first frontend mentor challenge. I followed a Web Development course before and learnt CSS but I didn't practiced or tried making something myself. After the course when I tried making a website for a hackathon I realized I just learnt it passively and jumped onto next topics like Javascript without actually practicing it. I faced imposter syndrome and tutorial hell. Now I am learning web dev again and learning by doing. Making progress slowly and trying to learn concepts deeply instead of completely as tasks. It was fun to complete the challenge by my own trying to figure out why things are not working, how to fix it. Web design may not be considered art but it is like an art. It was similar to painting for me I was an artist(programmer) looking at a scenery(design) and trying to replicate it on my artboard(web browser) with my tools(keyboard) and properties(css properties).
  
 ### Screenshot
 
@@ -31,12 +31,17 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 **Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
+
+
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://ritesh-karankal.github.io/qr-code-component/](https://ritesh-karankal.github.io/qr-code-component/)
 
 ## My process
+
+- I traced the design images in figma to get better margin and padding.
+- 
 
 ### Built with
 
@@ -56,9 +61,15 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 I have learnt css before but I didnt practiced it when I came to make a website on my own I struggled to align items.
 
 Today I learnt 
+Practiced tracing design in Figma.
 How to center a div using flex-box.
 How to make a card.
 How to change text properties.
+How to make design.
+Make a design pixel perfect.
+was confused between max height and min -height but got little clarity.
+Got to know about some CSS reset.
+
 
 To see how you can add code snippets, see below:
 
@@ -85,8 +96,8 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
 
 I am still confused about some elements what to use like padding or margin.
-How to cut a text using padding or width.
-How 
+Should I adjust text width with padding or width property.
+How to use apt tags for texts.
 
 **Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
@@ -99,9 +110,10 @@ How
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@riteshk_twt](https://www.twitter.com/yourusername)
+- Github - [ritesh-karankal](https://github.com/ritesh-karankal)
+- Frontend Mentor - [@ritesh-karankal](https://www.frontendmentor.io/profile/ritesh-karankal)
+- Twitter - [@riteshk_twt](https://twitter.com/riteshk_twt)
+
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
